@@ -11,7 +11,7 @@
 2. Copy the text inside the file to clipboard<br>
 3. Paste in console and hit enter!<br>
 <p align="center"><img src="./img/injectcss.png" alt="inject css"></p>
-4. Proffit..? Maybe?<br>
+4. Profit..? Maybe?<br>
 <p align="center"><img src="./img/resultandroid.png" alt="resultandroid"></p>
 <p align="center"><img src="./img/resultdesktop.png" alt="resultdesktop"></p>
 <p align="center"><img src="./img/injectdemo.png" alt="inject demo"></p>
